@@ -21,8 +21,9 @@ public class Week3StarterCode {
         
         System.out.println(s1.getFirstName() + " "+s1.getID());
         System.out.println("See you again!");
-        System.out.println("WEEK 3!");
-         System.out.println("THURSDAY");
+        System.out.println("WEEK 3!");    //fetch+merge
+         System.out.println("THURSDAY");  //pull
+         System.out.println("Welcome");  
        
        
     }
